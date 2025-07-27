@@ -38,7 +38,7 @@ The system uses a modern tech stack with React, TailwindCSS, Node.js, Express, S
 #### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/NhaNhaa/Student-Management-System---FullStack-Project.git
+[git clone https://github.com/NhaNhaa/Student-Management-System---FullStack-Project.git](https://github.com/NhaNhaa/Student-Management-System---FullStack-Project.git)
 cd Student-Management-System---FullStack-Project
 ```
 
