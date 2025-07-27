@@ -38,8 +38,8 @@ The system uses a modern tech stack with React, TailwindCSS, Node.js, Express, S
 #### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/student-management-system
-cd student-management-system
+git clone https://github.com/NhaNhaa/Student-Management-System---FullStack-Project.git
+cd Student-Management-System---FullStack-Project
 ```
 
 #### **2️⃣ Install Dependencies**
@@ -212,14 +212,6 @@ Visit the login page and enter your credentials for either admin, teacher, or st
 * View personal profile
 * See enrolled classes
 * Track grades and assignments
-
----
-
-## **📸 Screenshots**
-
-> *(Add your UI screenshots here using: `![Alt text](./path-to-screenshot.png)`)*
-
----
 
 ## **👨‍💻 Team Members**
 
